@@ -1,0 +1,88 @@
+body {
+  text-align: center;
+  background-color: #C3E5AE;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #FBFFE2;
+  font-family: 'Grape Nuts', cursive;
+font-family: 'Quicksand', sans-serif;
+  text-shadow: 3px 0 #F1E1A6;
+
+}
+
+footer {
+  color: #FBFFE2;
+  font-size: 25px;
+  font-family: 'Grape Nuts', cursive;
+ font-family: 'Quicksand', sans-serif;
+}
+
+.d {
+  background-image: url("images/confused.png");
+  background-size: contain;
+}
+
+.r {
+  background-image: url("images/happy.png");
+  background-size: contain;
+}
+
+.u {
+  background-image: url("images/inlove.png");
+  background-size: contain;
+}
+
+.m {
+  background-image: url("images/sleep.png");
+  background-size: contain;
+}
+
+.c {
+  background-image: url("images/smile.png");
+  background-size: contain;
+}
+
+.a {
+  background-image: url("images/smiley.png");
+  background-size: contain;
+}
+
+.t {
+  background-image: url("images/star.png");
+  background-size: contain;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: #F4BBBB;
+}
+
+.drum {
+  font-family: 'Grape Nuts', cursive;
+font-family: 'Quicksand', sans-serif;
+  outline: none;
+  border: 10px solid #97DBAE;
+  font-size: 5rem;
+ 
+  line-height: 2;
+  font-weight: 900;
+  color: #FBFFE2;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
